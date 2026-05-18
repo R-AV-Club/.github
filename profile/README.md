@@ -27,7 +27,7 @@ The organization serves as a collaborative ecosystem where students learn practi
 
 Our members actively work on a wide variety of engineering platforms including:
 
-- Line Follower Robots
+- [Line Follower Robots](https://github.com/R-AV-Club/R-AV-Line-Follower-Robot)
 - Maze Solving Robots
 - Soccer Robots
 - War Robots
@@ -77,20 +77,6 @@ These activities help members strengthen practical skills, encourage innovation,
 
 ---
 
-# Purpose of This Organization
-
-This GitHub organization serves as the official technical documentation and project management platform of R&AV Club.
-
-The objective is to:
-
-- Maintain structured engineering documentation
-- Preserve technical knowledge and development history
-- Encourage collaborative project development
-- Create professional technical portfolios for contributors
-- Help future members learn from previous projects and research
-
----
-
 # Open Engineering Culture
 
 R&AV Club believes in learning through experimentation, documentation, collaboration, and continuous improvement. By maintaining open and structured project repositories, the organization aims to build a long-term engineering knowledge ecosystem for current and future members.
@@ -104,7 +90,6 @@ R&AV Club believes in learning through experimentation, documentation, collabora
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Robotics_AV_club)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roboticsclub.msu/)
 
-# Location
-[![-](https://img.shields.io/badge/Location-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/Jo6yZ3MkrA7fJ2VB6?g_st=aw)
+# [![-](https://img.shields.io/badge/Location-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/Jo6yZ3MkrA7fJ2VB6?g_st=aw)
 Faculty of Technology and Engineering, The Maharaja Sayajirao University
 Vadodara, Gujarat 390001, IN
